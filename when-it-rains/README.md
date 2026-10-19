@@ -2,7 +2,7 @@
 
 A small arcade game made with Python and pygame. Move a cat left and right to dodge the raindrops falling from the clouds. One touch ends the game.
 
-![Gameplay](assets/demo.gif)
+![Gameplay](ASSETS/demo.gif)
 
 ## Features
 - Raindrops spawn at random positions and fall continuously
